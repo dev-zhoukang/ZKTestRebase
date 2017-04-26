@@ -278,7 +278,7 @@
 				DEVELOPMENT_TEAM = 9S49W485R2;
 				INFOPLIST_FILE = ZKTestRebase/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.zk.ZKTestRebase;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zk.rebase;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -290,7 +290,7 @@
 				DEVELOPMENT_TEAM = 9S49W485R2;
 				INFOPLIST_FILE = ZKTestRebase/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.zk.ZKTestRebase;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zk.rebase;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -314,6 +314,7 @@
 				584AB52A1EB082AF008CCE70 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
