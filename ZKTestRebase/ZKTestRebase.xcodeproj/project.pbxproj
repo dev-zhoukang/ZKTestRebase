@@ -14,6 +14,7 @@
 		584AB5211EB082AF008CCE70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 584AB5201EB082AF008CCE70 /* Assets.xcassets */; };
 		584AB5241EB082AF008CCE70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 584AB5221EB082AF008CCE70 /* LaunchScreen.storyboard */; };
 		584AB52D1EB083FB008CCE70 /* ZKTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 584AB52C1EB083FB008CCE70 /* ZKTestViewController.m */; };
+		584AB5301EB09EA0008CCE70 /* ZKTestV2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 584AB52F1EB09EA0008CCE70 /* ZKTestV2ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		584AB5251EB082AF008CCE70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		584AB52B1EB083FB008CCE70 /* ZKTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKTestViewController.h; sourceTree = "<group>"; };
 		584AB52C1EB083FB008CCE70 /* ZKTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKTestViewController.m; sourceTree = "<group>"; };
+		584AB52E1EB09EA0008CCE70 /* ZKTestV2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKTestV2ViewController.h; sourceTree = "<group>"; };
+		584AB52F1EB09EA0008CCE70 /* ZKTestV2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKTestV2ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				584AB51B1EB082AF008CCE70 /* ViewController.m */,
 				584AB52B1EB083FB008CCE70 /* ZKTestViewController.h */,
 				584AB52C1EB083FB008CCE70 /* ZKTestViewController.m */,
+				584AB52E1EB09EA0008CCE70 /* ZKTestV2ViewController.h */,
+				584AB52F1EB09EA0008CCE70 /* ZKTestV2ViewController.m */,
 				584AB51D1EB082AF008CCE70 /* Main.storyboard */,
 				584AB5201EB082AF008CCE70 /* Assets.xcassets */,
 				584AB5221EB082AF008CCE70 /* LaunchScreen.storyboard */,
@@ -157,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				584AB51C1EB082AF008CCE70 /* ViewController.m in Sources */,
+				584AB5301EB09EA0008CCE70 /* ZKTestV2ViewController.m in Sources */,
 				584AB52D1EB083FB008CCE70 /* ZKTestViewController.m in Sources */,
 				584AB5191EB082AF008CCE70 /* AppDelegate.m in Sources */,
 				584AB5161EB082AF008CCE70 /* main.m in Sources */,
